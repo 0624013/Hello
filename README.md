@@ -1,4 +1,4 @@
-# 蕭雅姍 :trollface:
+# 蕭雅姍:cat2:
 
 ## 學號：0624013
 
@@ -17,3 +17,6 @@
 
 [高科大](https://www.nkust.edu.tw/)
 
+| one | two | three |
+|:---:|:---:|:-----:|
+|:hankey:|:poop:|:shit:|
