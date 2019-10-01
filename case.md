@@ -52,10 +52,15 @@
     身為一個學生，我希望能事先查詢第Ｅ書房中電腦的使用狀況，因而決定是否前往
     
 ###### 8.初步類別圖：
-    ![images](案例一.jpg)
+   ![images](案例一.jpg)
     
-    ![images](案例二.jpg)
+   ![images](案例二.jpg)
     
-    ![images](案例三.jpg)
+   ![images](案例三.jpg)
 
 ###### 9.系統循序圖：
+   ![images](系統循序圖一.jpg)
+    
+   ![images](系統循序圖二.jpg)
+    
+   ![images](系統循序圖三.jpg)
