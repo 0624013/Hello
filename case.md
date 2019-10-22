@@ -77,7 +77,7 @@
     
    ![images](強韌圖2.jpg)
     
-   ![images](強韌圖3.jpg)
+   ![images](強韌圖1.jpg)
 
 ###### 11.循序圖：
    ![images](循序圖1.jpg)
