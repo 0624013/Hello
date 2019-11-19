@@ -7,3 +7,18 @@ abstract class CShape
  }
  public abstract void show();
 }
+class CTriangle extends CShap
+{
+ protected double a,b,c;
+ public CTriangle (double a,double b,double c)
+ {
+  a=a;
+  b=b;
+  c=c;
+ }
+ public void show()
+ {
+  System.out.print("color="+color+", ");
+  System.out.println("area="+0.5*a*b);
+ }
+}
